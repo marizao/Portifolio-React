@@ -1,0 +1,49 @@
+/* src/components/Contatos.css */
+
+#contatos {
+    background-color: #333;
+    color: #fff;
+    padding: 40px 0;
+  }
+  
+  /* .content-container {
+    max-width: 600px;
+    margin: 0 auto;
+  } */
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon {
+    margin-right: 10px;
+    font-size: 1.5em; /* Ajuste o tamanho conforme necessário */
+  }
+  
+  /* Exemplo de ícone do Font Awesome */
+  .fa-linkedin-square { 
+    color: #0077B5;
+  }
+  
+  .fa-github-square {
+    color: #171515;
+  }
+  
+  .fa-whatsapp-square {
+    color: #25D366;
+  }
+  

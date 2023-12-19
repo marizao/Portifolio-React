@@ -1,0 +1,33 @@
+/* src/components/CoursesCarousel.css */
+.sobre {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .course-slide {
+    text-align: center;
+  }
+  
+  .course-slide img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-info {
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  .course-info h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .course-info p {
+    font-size: 16px;
+  }
+  
